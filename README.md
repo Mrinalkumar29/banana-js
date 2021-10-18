@@ -7,4 +7,4 @@ Want to learn Banana ? Here is the app which will translate English language to 
 # Language used 
 - HTML5
 - CSS3
--JavaScript
+- JavaScript
